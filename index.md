@@ -1,3 +1,4 @@
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2YirFehoQnTjUidRicWZc_t2zT5Vc7K6O0pUyhMY8w&s)
 # I've come to make an announcement.
 **Shadow the Hedgehog is a bitchass motherfucker.**
 That's right.
