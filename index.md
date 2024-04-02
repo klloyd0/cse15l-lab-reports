@@ -1,4 +1,5 @@
 ![Image](file:///C:/Users/kurom/Downloads/images.jpg)
+# I've come to make an announcement.
 **Shadow the Hedgehog is a bitchass motherfucker.**
 That's right.
 *He pissed on my fucking wife.*
