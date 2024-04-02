@@ -22,8 +22,7 @@ That's right baby.
 * No pillows
 ## Look at that, it looks like two balls and a bong
 ***
-He fucked my wife so guess what.
-I'm gonna fuck the earth.
+He fucked my wife so guess what I'm gonna fuck the earth!!
 That's right this is what you get
 # MY SUPER LASER PISS
 Except I'm not gonna piss on the earth...I'm gonna go higher...
