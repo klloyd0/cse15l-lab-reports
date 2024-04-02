@@ -7,7 +7,9 @@ He took his long quilly hedgehog dick out and he pissed on my fucking wife and h
 ## This Big
 And I said **"That's disgusting!"**
 So I'm making a callout post on my Twitter dot com
->Shadow the Hedgehog, you have a small dick. It's the size of this walnut except way smaller.
+# Shadow the Hedgehog
+print `You have a small dick.`
+print `It's the size of this walnut except way smaller.`
 And guess what
 ## Here's what my dong looks like
 # WHOOOOSH
