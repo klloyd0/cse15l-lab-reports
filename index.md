@@ -30,5 +30,4 @@ Except I'm not gonna piss on the earth...I'm gonna go higher...
 # I'M PISSING ON THE MOON
 ## HOW DO YOU LIKE THAT OBAMA
 ## I PISSED ON THE MOON YOU IDIOT
-You have 23 hours before the piss DROPLETS hit the FUCKING earth.\n
-[Now GET OUT of my fucking sight before I piss on you too.](https://www.youtube.com/watch?v=FoLn6_Jsjdo&pp=ygUPaG90IG1pbGsgcGluZ2Fz)
+You have 23 hours before the piss DROPLETS hit the FUCKING earth. [Now GET OUT of my fucking sight before I piss on you too.](https://www.youtube.com/watch?v=FoLn6_Jsjdo&pp=ygUPaG90IG1pbGsgcGluZ2Fz)
