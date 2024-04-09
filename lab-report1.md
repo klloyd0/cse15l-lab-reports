@@ -25,24 +25,41 @@ Empty `ls` Command
 Directory `cat` Command
 ***
 ![Image](directory_cat.png)
+* Absolute directory was /c/Users/kurom
+* Not an error.
 
 Directory `cd` Command
 ***
 ![Image](directory_cd.png)
+* Absolute directory was /c/Users/kurom
+* Since `cd` changes directory, this command accesses the lecture1 directory in order to then run commands on the contents inside.
+* Not an error.
 
 Directory `ls` Command
 ***
 ![Image](directory_ls.png)
+* Absolute directory was /c/Users/kurom
+* The `ls` command lists out what's inside the directory. Since the lecture1 folder contains these files and more directories, they show up in the output.
+* Not an error.
 
 ## File Commands
 File `cat` Command
 ***
 ![Image](file_cat.png)
+* Absolute directory was /c/Users/kurom/lecture1/messages
+* Not an error.
 
 File `cd` Command
 ***
 ![Image](file_cd.png)
+* Absolute directory was /c/Users/kurom/lecture1/messages
+* It is an error. `cd` stands for "change directory", in which this file isn't one.
 
 File `ls` Command
 ***
 ![Image](file_ls.png)
+* Absolute directory was /c/Users/kurom/lecture1/messages
+* Since the file is not a directory, all the output can list out in an `ls` command is itself.
+* Not an error.
+
+**
