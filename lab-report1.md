@@ -13,14 +13,27 @@ Empty `ls` Command
 ![Image](empty_ls.png)
 
 ## Directory Commands
-* Directory `cat` Command
+Directory `cat` Command
 ***
 ![Image](directory_cat.png)
 
-* Directory `cd` Command
+Directory `cd` Command
 ***
 ![Image](directory_cd.png)
 
-* Directory `ls` Command
+Directory `ls` Command
 ***
 ![Image](directory_ls.png)
+
+## File Commands
+File `cat` Command
+***
+![Image](file_cat.png)
+
+File `cd` Command
+***
+![Image](file_cd.png)
+
+File `ls` Command
+***
+![Image](file_ls.png)
