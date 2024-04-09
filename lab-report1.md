@@ -26,6 +26,7 @@ Directory `cat` Command
 ***
 ![Image](directory_cat.png)
 * Absolute directory was /c/Users/kurom
+* The `cat` command basically prints out the contents of the file. Since this is a directory and not a file, the output instead prints out this message.
 * Not an error.
 
 Directory `cd` Command
@@ -47,12 +48,14 @@ File `cat` Command
 ***
 ![Image](file_cat.png)
 * Absolute directory was /c/Users/kurom/lecture1/messages
+* Since the `cat` command prints out the contents of a file and this is a file, the output is the actual message 'Hallo Welt!`
 * Not an error.
 
 File `cd` Command
 ***
 ![Image](file_cd.png)
 * Absolute directory was /c/Users/kurom/lecture1/messages
+* Since `cd` is meant to change directory and there is no further directory, the output points out the argument is not a directory.
 * It is an error. `cd` stands for "change directory", in which this file isn't one.
 
 File `ls` Command
@@ -61,5 +64,3 @@ File `ls` Command
 * Absolute directory was /c/Users/kurom/lecture1/messages
 * Since the file is not a directory, all the output can list out in an `ls` command is itself.
 * Not an error.
-
-**
