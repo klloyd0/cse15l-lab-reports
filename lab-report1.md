@@ -11,3 +11,16 @@
 * Empty `ls` Command
 ***
 ![Image](empty_ls.png)
+
+## Directory Commands
+* Directory `cat` Command
+***
+![Image](directory_cat.png)
+
+* Directory `cd` Command
+***
+![Image](directory_cd.png)
+
+* Directory `ls` Command
+***
+![Image](directory_ls.png)
