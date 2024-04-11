@@ -21,7 +21,7 @@ Empty `ls` Command
 * Not an error.
 
 ## Directory Commands
-##Directory `cat` Command
+## Directory `cat` Command
 ![Image](directory_cat.png)
 * Absolute directory was /c/Users/kurom
 * The `cat` command basically prints out the contents of the file. Since this is a directory and not a file, the output instead prints out this message.
@@ -42,7 +42,7 @@ Directory `ls` Command
 * Not an error.
 
 ## File Commands
-##File `cat` Command
+## File `cat` Command
 ![Image](file_cat.png)
 * Absolute directory was /c/Users/kurom/lecture1/messages
 * Since the `cat` command prints out the contents of a file and this is a file, the output is the actual message 'Hallo Welt!`
