@@ -1,6 +1,7 @@
 # CSE 15L Lab Report 1
 ## Empty Commands
 Empty `cat` Command
+
 ***
 ![Image](empty_cat.png)
 * Absolute directory was /c/Users/kurom
@@ -8,6 +9,7 @@ Empty `cat` Command
 * No, I don't think this is necessarily an error. Not what we want, but not an error either.
 
 Empty `cd` Command
+
 ***
 ![Image](empty_cd.png)
 * Absolute directory was /c/Users/kurom
