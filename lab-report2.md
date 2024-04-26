@@ -52,9 +52,13 @@ class ChatServer {
 ```
 
 ![Image](chatserver1.png)
+*Much like above, the method `urlgetpath.equals(/add-message)` is called, which from there prompts the methods `url.getQuery().split("=")`, `parameters[0].split("=")`, `parameters[1].split("=")` and finally, provided there is a legitimate message and user string within the parameters via `message[0].equals("s")` and `user[0].equals("user")`, the method `String.format(history)` is called to print the actual message.
+* Also respectively, the relevant arguments are the URL path `/add-message`, the URL query symbol `=`, and the URL query
+
+---
 ![Image](chatserver2.png)
-* Ex
-* Ex
+* Much like above, the method `urlgetpath.equals(/add-message)` is called, which from there prompts the methods `url.getQuery().split("=")`, `parameters[0].split("=")`, `parameters[1].split("=")` and finally, provided there is a legitimate message and user string within the parameters via `message[0].equals("s")` and `user[0].equals("user")`, the method `String.format(history)` is called to print the actual message.
+* Also respectively, the relevant arguments are the URL path `/add-message`, the URL query symbol `=`, and the URL query
 
 ## Part 2
 ![Image](ls_privatekey.png)
