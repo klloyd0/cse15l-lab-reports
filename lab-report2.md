@@ -51,6 +51,11 @@ class ChatServer {
 }
 ```
 
+![Image](chatserver1.png)
+* Ex
+![Image](chatserver2.png)
+* Ex
+
 ## Part 2
 ![Image](ls_privatekey.png)
 ![Image](ls_publickey.png)
