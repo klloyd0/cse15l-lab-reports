@@ -67,4 +67,4 @@ class ChatServer {
 ![Image](ls_publickey.png)
 ![Image](login_ssh.png)
 ## Part 3
-In order to run a server from your terminal, you need to compile the java files using the `javac` command with the relevant java files or just simply `*.java` for all. From there, you run the `java` command with the name of the desired server with any random port number. From there, if the commands are written correctly and if the port number is valid, the server runs and localhost site is available to view.
+In order to run a server from your terminal, you need to compile the java files using the `javac` command with the relevant java files or just simply `*.java` for all. From there, you run the `java` command with the name of the desired server with any random port number. If the commands are written correctly and if the port number is valid, the server runs and localhost site is available to view.
