@@ -52,8 +52,8 @@ class ChatServer {
 ```
 
 ![Image](chatserver1.png)
-* Ex
 ![Image](chatserver2.png)
+* Ex
 * Ex
 
 ## Part 2
@@ -61,3 +61,4 @@ class ChatServer {
 ![Image](ls_publickey.png)
 ![Image](login_ssh.png)
 ## Part 3
+Example
