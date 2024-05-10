@@ -54,13 +54,17 @@ class ChatServer {
 ![Image](chatserver1.png)
 * The method `handleRequest(URI url)` is first called, which then calls for one of two conditionals depending on whether or not there is a path after the domain. Since the given URL contains the path `add-message`, this calls the method `urlgetpath.equals(/add-message)`, which from there prompts the methods `url.getQuery().split("=")`, `parameters[0].split("=")`, `parameters[1].split("=")`. Finally, provided there is a legitimate message and user string within the parameters via `message[0].equals("s")` and `user[0].equals("user")`, the method `String.format(history)` is called to print the actual message.
 * Respectively, the relevant arguments are the URL path `/add-message`, and URL query fragments `=`, `s`, and `user` in String form. The values of relevant fields are `""` for the String field `history` and `new URI("http://localhost:3000/add-message?s=Hello&user=shaggy)` for the URI url parameter in the `handleRequest()` method.
-* Initially, the value for the String field `history` is a blank string since nothing's been added yet. By the end of the request, however, `history` is updated to include the new "Hello" message.
+* Initially, the value for the String field `history` is a blank string, or `""` since nothing's been added yet. By the end of the request, however, `history` is updated contain the String message `shaggy: Hello`.
 
 ---
 ![Image](chatserver2.png)
 * Much like above, the method `handleRequest(URI url)` is called, which from there still prompts one of the two conditionals. Since there's also an `add-message` path in this second URL, the method `urlgetpath.equals(/add-message)` is prompted. From there, the methods `url.getQuery().split("=")`, `parameters[0].split("=")`, and `parameters[1].split("=")` are all used. Provided there is still a legitimate message and user string within the parameters via `message[0].equals("s")` and `user[0].equals("user")`, the method `String.format(history)` is called to print the actual message.
 * Also respectively, the relevant arguments are the URL path `/add-message`, and URL query fragments `=`, `s`, and `user` in String form. The values of relevant fields are `"shaggy: Hello"` for the String field `history`, given how this updated after the last request, and `new URI(http://localhost:3000/add-message?s=How%20are%20you&user=scoobydoo)` for the URI url parameter in the `handleRequest()` method.
-* The initial value for the String field `history` is this time the previous "Hello" message from our first request since it's now keeping track of previous messages. As above, by the end of the request, `history` is updated to include the new "How are you" message. However, as already stated, since it's kept track of previous messages, it appears below the "Hello" message on a new line.
+* The initial value for the String field `history` is this time the previous `shaggy: Hello` String from our first request since it's now keeping track of previous messages. As above, by the end of the request, `history` is updated to include the new `scoobydoo: How are you"` String. However, as already stated, since it's kept track of previous messages, it appears below the "Hello" message on a new line. Thus, the updated `history` value reads as below
+```
+shaggy: Hello
+scoobydoo: How are you
+```
 
 ## Part 2
 ![Image](ls_privatekey.png)
