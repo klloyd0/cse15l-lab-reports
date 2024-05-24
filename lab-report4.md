@@ -1,3 +1,4 @@
+![Image](step4.png)
 Keys pressed: `<up> <up> <up> <up> <enter>`
 
 Keys pressed: `git <space> clone <space> <ctrl> v <enter>`
