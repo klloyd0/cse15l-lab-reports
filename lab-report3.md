@@ -12,7 +12,7 @@ $ find -name plos
 ./plos
 ```
 * The `-name` option for the `find` command basically searches and confirms if there is a directory or file with the exact name, almost like a regular search query. If we wanted to know if there really was a directory named `biomed` for instance, we could look for that and confirm it.
-* Source: https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command
+* Source: [https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command](https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command)
 
 ```
 $ find government -print
@@ -331,6 +331,7 @@ $ find 911report -print
 911report/preface.txt
 ```
 * The `-print` option after the `find` command basically prints all paths beginning with the current path name. This could be really useful as a means of viewing what's inside each directory within `technical` without using the `cd` and `ls` commands to view each child directory one by one.
+* Source: [https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command](https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command)
 
 ```
 $ find -type d
@@ -1380,6 +1381,7 @@ $ find -type f
 ./plos/pmed.0020281.txt
 ```
 * The `-type` option after `find` lists out all types of files, directories, links, etc. depending on the argument given after the option (e.g. `d` lists out all directories). This could be really helpful as another more direct way of listing out what's inside a directory as opposed to individually using the `ls` and `cd` commands, especially if you're specifically looking for just all possible directories or the total number of files, for instance. It should be noted the `find -type f` command was cropped out of the terminal alongside other possible files within the `technical` directory.
+* Source: [https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command](https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command)
 
 ```
 $ find 911report -ls
@@ -1698,3 +1700,4 @@ $ find government -ls
 2533274790876585     12 -rw-r--r--   1 kurom    197609      11887 Apr 30 13:17 government/Post_Rate_Comm/WolakSpeech_usps.txt
 ```
 * Finally, the `ls` option after `find` basically prints out the current path name alongside statistics including user, size and modification date. Although it is much wordier than the previous outputs, it could be helpful if one wanted to know what dates some files within the path were modified, alongside if they wanted to check how many hard links are within each file or child directory of said path.
+* Source: [https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command](https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command)
