@@ -5,7 +5,7 @@
 
 ![Image](step5.png)
 * Keys pressed: `git <space> clone <space> <ctrl> v <enter>`
-* All of these key presses were done to run the `git clone` command to clone my fork repo specific to my github account, hence the `ctrl` and `v` key presses so I could directly paste the `https://github.com/klloyd0/lab7` link.
+* All of these key presses were done to run the `git clone` command to clone my fork repo specific to my Github account, hence the `ctrl` and `v` key presses so I could directly paste the `https://github.com/klloyd0/lab7` link.
 
 ![Image](step6.png)
 * Keys pressed: `cd <space> lab7 <enter> ls <enter> bash <space> te <tab> <enter>`
