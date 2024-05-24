@@ -8,7 +8,7 @@
 * All of these key presses were done to run the `git clone` command to clone my fork repo specific to my Github account, hence the `ctrl` and `v` key presses so I could directly paste the `https://github.com/klloyd0/lab7` link.
 
 ![Image](step6.png)
-* Keys pressed: `cd <space> lab7 <enter> ls <enter> bash <space> te <tab> <enter>`
+* Keys pressed: `cd <space> lab7 <enter> ls <enter> bash <space> test.sh <enter>`
 * The `cd` command was ran to ensure I'd be in the `lab7` directory. From there, `ls` was ran to ensure I'd find the specific file I wanted to run. Finally, the `bash test.sh` command was run to confirm that the tests failed as instructed.
 
 ![Image](step7.png)
