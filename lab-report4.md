@@ -1,3 +1,4 @@
+# Lab Report 4
 ![Image](step4.png)
 * Keys pressed: `<up> <up> <up> <up> <enter>`
 
