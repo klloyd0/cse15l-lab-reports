@@ -11,7 +11,8 @@ $ find -name biomed
 $ find -name plos
 ./plos
 ```
-*The `-name` option for the `find` command basically searches and confirms if there is a directory or file with the exact name, almost like a regular search query. If we wanted to know if there really was a directory named `biomed` for instance, we could look for that and confirm it.
+* The `-name` option for the `find` command basically searches and confirms if there is a directory or file with the exact name, almost like a regular search query. If we wanted to know if there really was a directory named `biomed` for instance, we could look for that and confirm it.
+* Source: https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command
 
 ```
 $ find government -print
