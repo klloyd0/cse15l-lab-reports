@@ -9,4 +9,4 @@ Notice you have have a conditional statement on line 27. I would suggest you rev
 
 ## Output with Bug Fixed
 
-The bug
+The bug was merely a simple error in spacing within bash conditonals. Bash conditionals are written differently than Java conditionals in which everything is basically a terminal command. All instances of `$` in front of variables are seen as paths. Therefore, if they're not spaced, they'll be interpreted as a different command altogether, and an invalid one at that.
